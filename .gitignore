@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
@@ -205,3 +206,19 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+=======
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.venv
+venv/
+venv\
+DatasetMiddle.*
+.DS_Store
+.ipynb_checkpoints/
+
+# dataset bins (optional)
+dataset/**/bin/
+>>>>>>> 8075f57 (chore: initial project import + CLI, tests, CI)
