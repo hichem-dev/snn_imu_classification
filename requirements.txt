@@ -2,3 +2,6 @@ torch
 numpy
 pandas
 scikit-learn
+matplotlib
+snntorch
+pytest
